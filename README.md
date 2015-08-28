@@ -3,6 +3,7 @@ This project provide a common JNI framework for Android development.
 
 
 How to use ?
+
 1. Take reference to com.open.jniframework.JNITest.java, define your native java function.
 
 2. Take reference to jni/test_src/test.c, implement the registerTestMethods() and unregisterTestMethods().
